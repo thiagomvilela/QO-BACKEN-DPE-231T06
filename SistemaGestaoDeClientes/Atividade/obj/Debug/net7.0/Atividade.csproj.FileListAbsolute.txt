@@ -1,0 +1,14 @@
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\bin\Debug\net7.0\Atividade.exe
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\bin\Debug\net7.0\Atividade.deps.json
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\bin\Debug\net7.0\Atividade.dll
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\bin\Debug\net7.0\Atividade.pdb
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.dll
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\refint\Atividade.dll
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.pdb
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+D:\GitHub\C-Sharp\SistemaGestãoDeClientes\atividade\obj\Debug\net7.0\ref\Atividade.dll
