@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "3zxvOO/49kt6+oPoPVtJayMjWs7D8smh/6DlT1BcaNc=",
+  "Source": "LH-Pets",
+  "BasePath": "_content/LH-Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH-Pets\\wwwroot",
+      "Source": "LH-Pets",
+      "ContentRoot": "D:\\GitHub\\C-Sharp\\LH-Pets\\wwwroot\\",
+      "BasePath": "_content/LH-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GitHub\\C-Sharp\\LH-Pets\\wwwroot\\index.html",
+      "SourceId": "LH-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\C-Sharp\\LH-Pets\\wwwroot\\",
+      "BasePath": "_content/LH-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

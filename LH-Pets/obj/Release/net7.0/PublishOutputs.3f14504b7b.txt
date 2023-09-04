@@ -1,0 +1,13 @@
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\LH-Pets.exe
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\appsettings.Development.json
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\appsettings.json
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\LH-Pets.dll
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\LH-Pets.deps.json
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\LH-Pets.runtimeconfig.json
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\LH-Pets.pdb
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\C-Sharp\LH-Pets\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
