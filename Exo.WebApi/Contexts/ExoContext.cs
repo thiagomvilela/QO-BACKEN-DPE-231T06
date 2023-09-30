@@ -23,7 +23,7 @@ namespace Exo.WebApi.Contexts
 
                 // Se você quiser usar o exemplo 1 ou 2, certifique-se de que eles também estejam corretos.
                 // Exemplo 1 de string de conexão:
-                // "User ID=sa;Password=1234;Server=localhost;Database=ExoApi;Trusted_Connection=False;"
+                // "User ID=sa;Password=admin;Server=localhost;Database=ExoApi;Trusted_Connection=False;"
 
                 // Exemplo 2 de string de conexão:
                 // "Server=localhost\\SQLEXPRESS;Database=ExoApi;Trusted_Connection=True;"

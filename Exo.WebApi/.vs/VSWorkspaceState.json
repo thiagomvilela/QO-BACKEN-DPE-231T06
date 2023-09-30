@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contexts",
+    "\\Controllers",
+    "\\Models",
+    "\\Properties",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Contexts\\ExoContext.cs",
+  "PreviewInSolutionExplorer": false
+}
