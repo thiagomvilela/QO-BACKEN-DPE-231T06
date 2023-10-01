@@ -20,7 +20,7 @@ namespace Exo.WebApi.Controllers
         {
             return Ok(_projetoRepository.Listar());
         }
-        // Código novo que completa o CRUD.
+        // Cï¿½digo novo que completa o CRUD.
         [HttpPost]
         public IActionResult Cadastrar(Projeto projeto)
         {
